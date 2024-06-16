@@ -1,34 +1,37 @@
+# Currículo HTML - Antonio
 
-```markdown
-# Currículo em HTML e CSS
+Este repositório contém o código-fonte do meu currículo formatado em HTML e publicado como uma página no GitHub. Você pode visualizar a página acessando [este link](http://ancgci.github.io/antonio).
 
-## Sobre o Projeto
+## Objetivo
 
-Este repositório contém o código fonte de um currículo pessoal formatado em HTML e CSS. O projeto faz parte de um processo de aprendizado das tecnologias web, com foco em HTML e CSS, sob a mentoria de João Junior.
+Este projeto faz parte do meu processo de aprendizado das tecnologias web, especificamente HTML e CSS. Com a orientação do mentor João Junior, desenvolvi esta página para praticar e consolidar meus conhecimentos.
 
-## Visualização
+## Tecnologias Utilizadas
 
-Para visualizar o currículo online, visite o seguinte link: ![http://ancgci.github.io/antonio](http://ancgci.github.io/antonio)
+- **HTML**: Utilizado para estruturar o conteúdo do currículo.
+- **CSS**: Utilizado para estilizar e formatar a página.
 
-## Objetivos de Aprendizado
+## Estrutura do Repositório
 
-- Entender a estrutura básica de um documento HTML.
-- Aprender a estilizar páginas web usando CSS.
-- Praticar a hospedagem de sites estáticos usando GitHub Pages.
+- `index.html`: Arquivo principal que contém o código HTML do currículo.
+- `styles.css`: Arquivo de estilo que contém as regras CSS aplicadas ao currículo.
 
-## Mentoria
+## Como Visualizar
 
-Agradeço a orientação e suporte de João Junior, cuja expertise e conselhos foram fundamentais para o desenvolvimento deste projeto.
+Para visualizar o currículo, basta acessar [este link](http://ancgci.github.io/antonio). A página está hospedada no GitHub Pages e é atualizada automaticamente com base nos commits feitos neste repositório.
 
-## Autor
+## Aprendizados
 
-- **Antônio** - [ancgci](https://github.com/ancgci)
+Este projeto me permitiu:
+
+- Compreender melhor a estruturação de documentos HTML.
+- Praticar a aplicação de estilos usando CSS.
+- Publicar páginas na web utilizando o GitHub Pages.
 
 ## Agradecimentos
 
-Agradeço a todos que contribuíram direta ou indiretamente para o meu aprendizado e o desenvolvimento deste projeto.
+Agradeço ao meu mentor, João Junior, pelo apoio e orientação durante todo o processo de desenvolvimento deste projeto.
 
----
+## Licença
 
-Este projeto é parte do meu portfólio e reflete meu crescimento como desenvolvedor web. Estou sempre aberto a feedback e sugestões de melhoria.
-```
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.

@@ -4,7 +4,7 @@ Este repositório contém o código-fonte do meu currículo formatado em HTML e 
 
 ## Objetivo
 
-Este projeto faz parte do meu processo de aprendizado das tecnologias web, especificamente HTML e CSS. Com a orientação do mentor João Junior, desenvolvi esta página para praticar e consolidar meus conhecimentos.
+Este projeto faz parte do meu processo de aprendizado das tecnologias web, especificamente HTML e CSS. Com a orientação do mentor João Junior, editei esta página para praticar e consolidar meus conhecimentos.
 
 ## Tecnologias Utilizadas
 

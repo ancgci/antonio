@@ -1,4 +1,3 @@
-Certamente! Aqui está um exemplo de um arquivo `README.md` que você pode usar para o seu repositório:
 
 ```markdown
 # Currículo em HTML e CSS
@@ -34,5 +33,3 @@ Agradeço a todos que contribuíram direta ou indiretamente para o meu aprendiza
 
 Este projeto é parte do meu portfólio e reflete meu crescimento como desenvolvedor web. Estou sempre aberto a feedback e sugestões de melhoria.
 ```
-
-Você pode copiar e colar esse conteúdo em um novo arquivo chamado `README.md` e adicioná-lo ao seu repositório. Lembre-se de commitar e fazer push do arquivo para que ele apareça na página principal do seu repositório no GitHub.

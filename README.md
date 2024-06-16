@@ -8,7 +8,7 @@ Este repositório contém o código fonte de um currículo pessoal formatado em 
 
 ## Visualização
 
-Para visualizar o currículo online, visite o seguinte link: [http://ancgci.github.io/antonio](http://ancgci.github.io/antonio)
+Para visualizar o currículo online, visite o seguinte link: ![http://ancgci.github.io/antonio](http://ancgci.github.io/antonio)
 
 ## Objetivos de Aprendizado
 

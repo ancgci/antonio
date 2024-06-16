@@ -15,7 +15,6 @@ Para visualizar o currículo online, visite o seguinte link: [http://ancgci.gith
 - Entender a estrutura básica de um documento HTML.
 - Aprender a estilizar páginas web usando CSS.
 - Praticar a hospedagem de sites estáticos usando GitHub Pages.
-- Aplicar princípios de design e acessibilidade na construção de páginas web.
 
 ## Mentoria
 

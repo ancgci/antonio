@@ -28,10 +28,6 @@ Este projeto me permitiu:
 - Praticar a aplicação de estilos usando CSS.
 - Publicar páginas na web utilizando o GitHub Pages.
 
-## Agradecimentos
-
-Agradeço ao meu mentor, João Junior, pelo apoio e orientação durante todo o processo de desenvolvimento deste projeto.
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
